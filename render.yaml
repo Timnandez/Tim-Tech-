@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Timnandez Gibson
+    env: docker
+    region: Nairobi
+    plan: free
